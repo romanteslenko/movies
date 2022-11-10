@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies Gallery</string>
+    <string name="movies_list_fragment_label">Top Movies</string>
+    <string name="movie_details_fragment_label">Description</string>
+    <string name="no_movies">No movies, yet :(</string>
+    <string name="network_error">Network error</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="movie_error">Something went wrong</string>
+</resources>
